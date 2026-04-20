@@ -8,7 +8,7 @@ Estudante de Sistemas de Informação, com forte interesse em tecnologia e desen
 ## Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabyte&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="32%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Gabyte&theme=dark&hide_border=true" width="35%" />
+  <img src="https://streak-stats.demolab.com/?user=gabriel&theme=dark&hide_border=true" width="35%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabyte&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="29.6%" />
 </p>
 
